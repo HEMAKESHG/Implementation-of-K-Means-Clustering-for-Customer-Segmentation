@@ -80,7 +80,9 @@ plt.show()
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+![Screenshot 2024-04-16 162406](https://github.com/HEMAKESHG/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870552/90a79e57-da70-4822-ab3b-41b8cda5e542)
+![Screenshot 2024-04-16 162421](https://github.com/HEMAKESHG/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870552/c36d9a28-26ac-4b52-b44f-f4c1c3610840)
+![Screenshot 2024-04-16 162437](https://github.com/HEMAKESHG/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870552/650f4f4e-0495-4ee1-bf7c-8f806991fd38)
 
 
 ## Result:
